@@ -1,0 +1,10 @@
+body{
+    text-align: center;
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+img {
+    justify-content: space-around;
+}

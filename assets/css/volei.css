@@ -1,0 +1,58 @@
+body{
+    position: relative;
+    height: 100vh;
+    width: 100vw;
+    background: url('https://image.api.playstation.com/cdn/EP4008/CUSA10577_00/phF32w8TqyF344OsX8wAm3OxhIK2X9qR.png') center center no-repeat fixed;
+    background-size: cover;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    border-radius: 10px;
+}
+.container{
+    background-color: rgb(255, 255, 255);
+    width: 40%;
+    margin: 0 auto;
+    margin-left: 0 auto;
+    padding: 30px;
+    border-radius: 40px;
+}
+.bloc{
+    background-color: rgb(255, 238, 0);
+    width: 100%;
+    margin: 0 auto;
+    margin-left: 0 auto;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: left;
+}
+h3{
+    text-align: left;
+}
+img{
+    width: 50%;
+    height: auto;
+    max-width: 50%;
+}
+.bord {
+    border-top: 10px solid rgb(238, 255, 0)
+}
+.laranja {
+    background-color: rgb(0, 195, 255);
+    border-radius: 10px;
+   
+}
+button {
+    background-color: rgb(120, 192, 79);
+    border: none;
+    padding: 15px;
+    width: 50%;
+    border-radius: 100px;
+    color: rgb(0, 0, 0);
+    font-size: 15px;
+}
+button:hover{
+    background-color: rgb(228, 213, 5);
+    cursor: pointer;
+}
